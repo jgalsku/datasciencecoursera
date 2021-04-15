@@ -86,8 +86,6 @@ names(bind_subject) <- "subject"
 #create the tidy data set by binding the activity label variable, subject variable, and the selected data sets for mean and std variables
 tidy_data <- cbind(bind_labels, bind_subject, bind_data_meanstd)
 
-setwd("C:/Users/yo/Dropbox/coursera/Getting_and_Cleaning_Data/final project/datasciencecoursera")
-write.table(tidy_data, file = "tidyDataSet.txt", row.name=FALSE) 
 
 
 ###########################################################################
