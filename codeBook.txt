@@ -56,7 +56,7 @@ std(): Standard deviation
 For each record it is provided:
 ======================================
 
-- the MEAN of the mean() and std() for each 3-axial signals in the X, Y and Z directions per ACTIVITY LABEL per SUBJECT who carried out the experiment.
+- the MEAN of the mean() and std() for each 3-axial signals in the X, Y and Z directions per ACTIVITY per SUBJECT who carried out the experiment.
 
 
 The data set includes the following files:
