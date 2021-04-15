@@ -56,9 +56,7 @@ std(): Standard deviation
 For each record it is provided:
 ======================================
 
-- mean() and std() for each 3-axial signals in the X, Y and Z directions
-- Its activity label. 
-- An identifier of the subject who carried out the experiment.
+- the mean of the mean() and std() for each 3-axial signals in the X, Y and Z directions per activity label per subject who carried out the experiment.
 
 
 The tidyDataset includes the following files:
@@ -66,7 +64,7 @@ The tidyDataset includes the following files:
 
 - 'README.txt'
 
-- 'tidyDataSet.txt': includes all data for the mean() and std() for each 3-axial signals in the X, Y and Z directions
+- 'step5table.txt': includes all data for the mean of the mean() and std() for each 3-axial signals in the X, Y and Z directions for each activity label per subject
 
 
 
